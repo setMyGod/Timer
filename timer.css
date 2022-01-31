@@ -1,0 +1,90 @@
+body{
+    background: black;
+}
+.father{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
+    color: mintcream;
+}
+.miliseconds{
+    border-radius: 5%;
+    background: red;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 2px solid crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bold;
+
+
+}
+.seconds{
+    border-radius: 5%;
+    background: red;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 2px solid crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bold;
+
+}
+.minutes{
+    border-radius: 5%;
+    background: red;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 2px solid crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bold;
+}
+.hours{
+    border-radius: 5%;
+    background: red;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 2px solid crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.buttons{
+    margin-top: 100px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+button{
+    width: 200px;
+    height: 75px;
+    font-size: 32px;
+    font-weight: bold;
+    background: red;
+    color: mintcream;
+}
+button:hover{
+    background: seagreen;
+}
+
+p{
+font-weight: bold;
+    font-size: 30px;
+}
